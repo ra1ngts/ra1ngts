@@ -1,16 +1,19 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/122100029/212718402-96072faf-3ccd-4209-bb9f-b8f95d155ebb.png)
+### :man_technologist: About Me :
 
-<!--
-**ra1ngts/ra1ngts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- :technologist:
+I am 38 years old. Born in Russia, Moscow city. There are two children. Programming is a new branch of my life. I came to programming from business and sales. I had a successful experience of starting my own business. Later he worked in sales. I decided that I needed to change my life, turned my eyes to the sphere of high technologies. I think that her future, and I want to keep up with the times. I'm just starting to learn, the more I learn, the more it sucks me further :) I'm learning :snake: Python.
+### :man_student: Education :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- :writing_hand: 
+I finished high school. Then he entered and graduated from Moscow State Technical University "MAMI". Faculty "Automobiles and Tractors". Specialty: Automotive designer.
+### :hammer_and_wrench: Work experience :
+
+---
+
+- :clock1:
+At the moment I am studying in one of the online schools for learning programming.
