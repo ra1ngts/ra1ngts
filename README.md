@@ -28,3 +28,9 @@ At the moment I am studying in one of the online schools for learning programmin
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
 </div>
+
+### :fire: Statistics and <img src="https://komarev.com/ghpvc/?username=ra1ngts&style=flat-square&color=blue" alt=""/> :
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ra1ngts&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
