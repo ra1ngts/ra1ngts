@@ -46,4 +46,8 @@ At the moment I am studying in one of the online schools for learning programmin
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ra1ngts&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ra1ngts&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ra1ngts)](https://github.com/anuraghazra/github-readme-stats)
