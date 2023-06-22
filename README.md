@@ -29,6 +29,9 @@ At the moment I am studying in one of the online schools for learning programmin
  <a href="mailto:raingts@mail.ru">
   <img src="https://img.shields.io/badge/%D0%A1ontact-with%20me-blue">
  </a>
+  <a href="https://drive.google.com/file/d/1kyiHM8JwXhhA4o7R5-mKa29TYLyJhAyU/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/PDF_cv-black?logo=adobe&logoColor=FF0000">
+ </a>
 </div>
 
 ### :books: Languages and Tools :
