@@ -19,7 +19,7 @@ I finished high school. Then he entered and graduated from Moscow State Technica
 ---
 
 - :clock1:
-At the moment I am studying in one of the online schools for learning programming.
+At the moment I am studying in one of the online schools for learning programming. Take a look at my <a href="https://github.com/ra1ngts?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-blue"></a>
 
 ### :mailbox: How to reach me :
 
@@ -41,6 +41,7 @@ At the moment I am studying in one of the online schools for learning programmin
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="40" height="40"/>
+<img src="https://github.com/ra1ngts/ra1ngts/assets/122100029/09ad7264-d9c4-4223-a33e-84ba99d43f9b" title="Django REST" **alt="Django REST" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
