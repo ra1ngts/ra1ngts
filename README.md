@@ -4,22 +4,19 @@
 
 ---
 
-- :technologist:
-I am 38 years old. Born in Russia, Moscow city. There are two children. Programming is a new branch of my life. I came to programming from business and sales. I had a successful experience of starting my own business. Later he worked in sales. I decided that I needed to change my life, turned my eyes to the sphere of high technologies. I think that her future, and I want to keep up with the times. I'm just starting to learn, the more I learn, the more it sucks me further :) I'm learning :snake: Python.
+- I'm :snake: Python developer. I came to programming from business and sales.
 
 ### :man_student: Education :
 
 ---
 
-- :writing_hand: 
-I finished high school. Then he entered and graduated from Moscow State Technical University "MAMI". Faculty "Automobiles and Tractors". Specialty: Automotive designer.
+- Moscow Poly University https://mospolytech.ru/en/
 
 ### :hammer_and_wrench: Work experience :
 
 ---
 
-- :clock1:
-At the moment I am studying in one of the online schools for learning programming. Take a look at my <a href="https://github.com/ra1ngts?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-blue"></a>
+- Skill factory projects, Russia 10/22 - nowadays. Take a look at my <a href="https://github.com/ra1ngts?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-blue"></a>
 
 ### :mailbox: How to reach me :
 
