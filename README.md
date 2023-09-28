@@ -25,7 +25,7 @@
 ---
 
 <div id="badges">
- <a href="mailto:raingts@mail.ru">
+ <a href="mailto:david.khurts@gmail.com">
   <img src="https://img.shields.io/badge/%D0%A1ontact-with%20me-blue">
  </a>
   <a href="https://drive.google.com/file/d/1kyiHM8JwXhhA4o7R5-mKa29TYLyJhAyU/view?usp=drive_link">
