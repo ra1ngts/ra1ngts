@@ -28,7 +28,7 @@
  <a href="mailto:david.khurts@gmail.com">
   <img src="https://img.shields.io/badge/%D0%A1ontact-with%20me-blue">
  </a>
-  <a href="https://docs.google.com/document/d/11nAk6bkwkStDn-v10gQ6TJ4naUfKwNuJ/edit#heading=h.gjdgxs">
+  <a href="https://drive.google.com/drive/u/0/folders/1j3tgNLWfK2gHiZFy9sxAv_d-YZOxtKUV">
   <img src="https://img.shields.io/badge/PDF_cv-black?logo=adobe&logoColor=FF0000">
  </a>
 </div>
