@@ -17,7 +17,7 @@
 ---
 
 - Freelance, nowadays.
-- Skill factory, 10/22 - 09/23.
+- Skill factory, 10.22 - 08.23.
   Take a look at my <a href="https://github.com/ra1ngts?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-blue"></a>
 
 ### :mailbox: How to reach me :
