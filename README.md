@@ -4,7 +4,7 @@
 
 ---
 
-- I'm :snake: Python developer. I came to programming from business and sales.
+- I'm a :snake: Python developer. I came to programming from business and sales.
 
 ### :man_student: Education :
 
