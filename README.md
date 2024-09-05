@@ -4,7 +4,7 @@
 
 ---
 
-- I'm a :snake: Python developer. I came to programming from business and sales.
+- I'm a :snake: Python developer.
 
 ### :man_student: Education :
 
@@ -17,6 +17,7 @@
 ---
 
 - Freelance, nowadays.
+- Astronis, 04.24 - 09.24.
 - Skill factory, 10.22 - 08.23.
   Take a look at my <a href="https://github.com/ra1ngts?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-blue"></a>
 
