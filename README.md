@@ -1,10 +1,10 @@
-![banner](https://user-images.githubusercontent.com/122100029/212718402-96072faf-3ccd-4209-bb9f-b8f95d155ebb.png)
+![azuresqldatabase-original](https://github.com/user-attachments/assets/5a18494e-17d4-4cf3-95b9-fca5835c8ff5)![banner](https://user-images.githubusercontent.com/122100029/212718402-96072faf-3ccd-4209-bb9f-b8f95d155ebb.png)
 
 ### :man_technologist: About Me :
 
 ---
 
-- I'm a :snake: Python developer.
+- I'm a :snake: Python | :blue_book: Django | Svelte | Full Stack Developer.
 
 ### :man_student: Education :
 
@@ -16,9 +16,8 @@
 
 ---
 
-- Razio group, nowadays.
-- Astronis, 04.24 - 09.24.
-- Skill factory, 10.22 - 08.23.
+- LLC "Razio Group" 10.24 - Present
+- LLC "Astronis" / 04.24 - 09.24
   Take a look at my <a href="https://github.com/ra1ngts?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-blue"></a>
 
 ### :mailbox: How to reach me :
