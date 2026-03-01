@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/122100029/212718402-96072faf-3ccd-4209-bb9f-b8f95d155ebb.png)
+
 ### :man_technologist: About Me :
 
 ---
@@ -45,7 +47,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/122100029/212718402-96072faf-3ccd-4209-bb9f-b8f95d155ebb.png" title="SQL" **alt="SQL" width="40" height="40"/>
 </div>
 
 ### :fire: Statistics and <img src="https://komarev.com/ghpvc/?username=ra1ngts&style=flat-square&color=blue" alt=""/> :
