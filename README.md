@@ -4,7 +4,7 @@
 
 ---
 
-- I'm a :snake: Python | :blue_book: Django | Svelte | Full Stack Developer.
+- I'm a :snake: Python | :blue_book: Django | Svelte | Full Stack Web Developer.
 
 ### :man_student: Education :
 
