@@ -5,6 +5,16 @@
 ---
 
 - I'm a :snake: Python | :blue_book: Django | Svelte | Full Stack Web Developer.
+- System Modernization & Business Automation
+2.5+ years of experience building end-to-end web solutions, automating complex business processes, and executing deep system modernizations. I specialize in bridging the gap between robust backend stability and intuitive, reactive frontend interfaces.
+
+What I bring to the table:
+- Full Stack Development: Designing scalable architectures from the ground up and delivering seamless user experiences through thoughtful UX/UI.
+- Legacy-to-Modern Migration: Proven track record of migrating complex legacy projects to modern tech stacks while maintaining 100% data integrity and system uptime.
+- System Refactoring & Optimization: Performing global refactoring to eliminate technical debt and ensure long-term code maintainability.
+- Business Process Automation: Building functional chatbots and custom tools that streamline workflows and increase operational efficiency.
+
+Focused on writing clean, high-quality code and building systems that are as stable as they are user-friendly.
 
 ### :man_student: Education :
 
