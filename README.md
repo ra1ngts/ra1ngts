@@ -4,16 +4,16 @@
 
 ---
 
-### Fullstack Web Developer | :snake: Python · :blue_book: Django · JavaScript · Svelte
+### Full-Stack Developer | :snake: Python · Django · JavaScript · Svelte
 
-Fullstack developer with <strong>2.5+ years of commercial experience</strong> building and maintaining web applications, e-commerce platforms, corporate services, and automation tools.
+Full-Stack developer with <strong>2.5+ years of commercial experience</strong> building and maintaining web applications, e-commerce platforms, corporate services, and automation tools.
 My main focus is <strong>Python/Django backend development and JavaScript/Svelte frontend development</strong>, including REST APIs, third-party integrations, PostgreSQL, and legacy system modernization.
 
 ### :computer: What I work with
 
 ---
 
-- Full-stack web application development
+- Full-Stack web application development
 - Python / Django backend development
 - JavaScript / Svelte frontend development
 - REST API development and third-party API integrations
