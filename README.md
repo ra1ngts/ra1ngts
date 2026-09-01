@@ -42,7 +42,7 @@ I actively use Claude Code, ChatGPT, Google Gemini, and Grok in my development w
 
 - Razio Group LLC - <strong>Fullstack Web Developer</strong> - 10.24 - 08.26
 - Astronis LLC - <strong>Developer</strong> - 04.24 - 09.24
-<br>Take a look at my <a href="https://davidkh.pythonanywhere.com/en/"> <img src="https://img.shields.io/badge/WEBSITE-blue"></a>
+<br>Take a look at my <a href="https://davidkh.pythonanywhere.com/en/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/WEBSITE-blue"></a>
 
 ### :mailbox: How to reach me
 
