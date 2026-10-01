@@ -53,7 +53,7 @@ I actively use Claude Code, ChatGPT, Google Gemini, and Grok in my development w
   <img src="https://img.shields.io/badge/%D0%A1ontact-with%20me-blue">
  </a>
   
-  <a href="https://drive.google.com/file/d/1wM5qyq7MqUkkYQb74Q-XlrvJsu64JjzE/view">
+  <a href="https://drive.google.com/drive/u/0/folders/19i1rS0IUs-yYE26VUJ8-Wdvf4uvY2orN">
   <img src="https://img.shields.io/badge/PDF_cv-black?logo=adobe&logoColor=FF0000">
  </a>
 </div>
