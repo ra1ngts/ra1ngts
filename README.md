@@ -9,7 +9,7 @@
 I am a results-driven Full-Stack Developer with commercial experience building scalable web applications, designing robust REST APIs, and integrating AI/LLM solutions. 
 
 * 🐍 **Backend Focus:** Python, Django, REST API design, scalable architecture.
-* ⚡ **Modern Frontend:** Svelte 5, React, fast and interactive UI/UX.
+* ⚡ **Modern Frontend:** React, Svelte 5 fast and interactive UI/UX.
 * 🧠 **AI Integration:** Leveraging LLMs and AI solutions to solve complex problems.
 
 **Product-Minded Engineer:** I look at code through the lens of business value. I don't just write scripts; I bridge the gap between product ideas and stable, production-ready features.
