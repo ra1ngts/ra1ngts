@@ -45,8 +45,8 @@ I actively use AI tools (Claude Code, ChatGPT, Gemini, Grok) to accelerate code 
 
 ---
 
-- Razio Group LLC - <strong>Full-Stack Web Developer</strong> - 10.24 - 08.26
-- Astronis LLC - <strong>Developer</strong> - 09.23 - 09.24
+- Razio Group LLC - <strong>Web Developer, Web Development Group</strong> - 10.24 - 08.26
+- Astronis LLC - <strong>Software Engineer, Multimedia Systems Department</strong> - 09.23 - 09.24
 <br>Take a look at my <a href="https://davidkh.pythonanywhere.com/en/"> <img src="https://img.shields.io/badge/WEBSITE-blue"></a>
 
 ### :mailbox: How to reach me
