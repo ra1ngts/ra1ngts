@@ -4,21 +4,26 @@
 
 ---
 
-### Full-Stack Developer | :snake: Python · Django · JavaScript · Svelte
+### Full-Stack Developer | :snake: Python · Django · JavaScript · React · Svelte
 
-Full-Stack developer with <strong>2.5+ years of commercial experience</strong> building and maintaining web applications, e-commerce platforms, corporate services, and automation tools.
-My main focus is <strong>Python/Django backend development and JavaScript/Svelte frontend development</strong>, including REST APIs, third-party integrations, PostgreSQL, and legacy system modernization.
+I am a results-driven Full-Stack Developer with commercial experience building scalable web applications, designing robust REST APIs, and integrating AI/LLM solutions. 
+
+* 🐍 **Backend Focus:** Python, Django, REST API design, scalable architecture.
+* ⚡ **Modern Frontend:** Svelte 5, React, fast and interactive UI/UX.
+* 🧠 **AI Integration:** Leveraging LLMs and AI solutions to solve complex problems.
+
+**Product-Minded Engineer:** I look at code through the lens of business value. I don't just write scripts; I bridge the gap between product ideas and stable, production-ready features.
 
 ### :computer: What I work with
 
 ---
 
 - Full-Stack web application development
+- AI/LLM solutions integration and AI-driven features
 - Python / Django backend development
-- JavaScript / Svelte frontend development
+- JavaScript / React / Svelte frontend development
 - REST API development and third-party API integrations
 - Legacy code modernization and refactoring
-- jQuery → Vanilla JavaScript migration
 - Responsive and mobile-first interfaces
 - Telegram bots and Telegram Mini Apps
 - Business process automation
@@ -28,7 +33,7 @@ My main focus is <strong>Python/Django backend development and JavaScript/Svelte
 
 ---
 
-I actively use Claude Code, ChatGPT, Google Gemini, and Grok in my development workflow for code generation, refactoring, debugging, code analysis, and exploring technical solutions.
+I actively use AI tools (Claude Code, ChatGPT, Gemini, Grok) to accelerate code generation, refactoring, debugging, and deep architectural analysis.
 
 ### :man_student: Education
 
@@ -40,8 +45,8 @@ I actively use Claude Code, ChatGPT, Google Gemini, and Grok in my development w
 
 ---
 
-- Razio Group LLC - <strong>Fullstack Web Developer</strong> - 10.24 - 08.26
-- Astronis LLC - <strong>Developer</strong> - 04.24 - 09.24
+- Razio Group LLC - <strong>Full-Stack Web Developer</strong> - 10.24 - 08.26
+- Astronis LLC - <strong>Developer</strong> - 09.23 - 09.24
 <br>Take a look at my <a href="https://davidkh.pythonanywhere.com/en/"> <img src="https://img.shields.io/badge/WEBSITE-blue"></a>
 
 ### :mailbox: How to reach me
@@ -67,8 +72,9 @@ I actively use Claude Code, ChatGPT, Google Gemini, and Grok in my development w
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" **alt="JS" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="DRF" **alt="DRF" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" **alt="Svelte" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" **alt="TailwindCSS" width="35" height="35"/>
